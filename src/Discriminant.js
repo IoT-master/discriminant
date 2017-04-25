@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
-import './App.css';
+import './Discriminant.css';
 import UserEntersQuadParams from './Containers/userEntersParameters';
 import DisplayOut from './Containers/displayOut';
 
-class App extends Component {
+class Discriminant extends Component {
 
   render() {
     return (
@@ -15,4 +15,4 @@ class App extends Component {
   }
 }
 
-export default App;
+export default Discriminant;
